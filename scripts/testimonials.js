@@ -27,7 +27,7 @@ const testimonials = [
     {
         img: './public/testimonial-5.png',
         name: 'Erni Wijayanti',
-        description: 'Wanita luar biasa',
+        description: 'STRONG MOM & STRONG WOMAN',
     },
 ]
 
