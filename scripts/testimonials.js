@@ -24,6 +24,11 @@ const testimonials = [
         name: 'Alpian Tabrani',
         description: 'Sumber motivasi & inspirasi 🙏',
     },
+    {
+        img: './public/testimonial-5.png',
+        name: 'Erni Wijayanti',
+        description: 'Wanita luar biasa',
+    },
 ]
 
 export default testimonials;
